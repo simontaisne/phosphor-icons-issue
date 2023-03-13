@@ -1,0 +1,1 @@
+export { VercelLogo } from "./VercelLogo";
